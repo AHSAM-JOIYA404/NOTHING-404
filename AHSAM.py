@@ -119,11 +119,11 @@ logo=("""
 \033[1;37m  ╚═══════════════════════════════════════════╝
                                                                                   
 \33[1;32m----------------------------------------------
-→   Owner       : AHSAM UL HAQ JOIYA 
+→   Owner     : AHSAM UL HAQ JOIYA 
 →   Facebook  : AHSAM UL HAQ 
-→   Github     :  MR-AUH404
+→   Github    :  MR-AUH404
 →   WHATSAPP  : +923411471937
-\x1b[1;92m→   Version    :  1.0
+\x1b[1;95m→   Version    : 0.11
 \33[1;32m----------------------------------------------""") 
 
 def cek_apk(coki):
